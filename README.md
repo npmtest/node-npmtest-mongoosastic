@@ -1,4 +1,7 @@
-# test coverage for  [mongoosastic (v4.3.0)](https://github.com/mongoosastic/mongoosastic#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoosastic.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoosastic) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoosastic.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoosastic)
+# npmtest-mongoosastic
+
+#### test coverage for  [mongoosastic (v4.3.0)](https://github.com/mongoosastic/mongoosastic#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoosastic.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoosastic) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoosastic.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoosastic)
+
 #### A mongoose plugin that indexes models into elastic search
 
 [![NPM](https://nodei.co/npm/mongoosastic.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongoosastic)
